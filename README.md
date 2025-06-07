@@ -51,4 +51,20 @@ weather-app/
 (For full geolocation support, run it via localhost or deploy online)
 
 
+## 🌐 Live Demo
+
+[🔗 Click here to view the live app](https://karthik6132.github.io/Weather-App/)
+
+
+
+## 🗝️ API Key
+
+- Create a free account at [OpenWeatherMap](https://openweathermap.org/)
+- Replace the API key in `script.js` with your own:
+  ```js
+  const apiKey = "YOUR_API_KEY_HERE";
+
+  
+
+
 
